@@ -11,7 +11,6 @@ License:: BSD
 =end
 
 require 'cgi'
-$KCODE = "U"
 
 
 class ClothRed < String
