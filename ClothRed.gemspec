@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
     gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
     gem.name          = "ClothRed"
     gem.require_paths = ["lib"]
-    gem.version       = "0.4.2"
+    gem.version       = "0.4.3"
     # ##TODO Make these gems listed below as dev dependencies.
     # gem.add_development_dependency 'rspec'
     # gem.add_development_dependency 'rake'
